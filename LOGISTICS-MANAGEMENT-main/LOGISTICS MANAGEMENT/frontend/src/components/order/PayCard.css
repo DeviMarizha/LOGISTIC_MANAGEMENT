@@ -1,0 +1,59 @@
+/* PayCard.css */
+
+.App-payment {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    margin: 50px auto;
+  }
+  
+  .App-payment h5 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .App-payment .MuiTextField-root {
+    margin-bottom: 15px;
+    width: 100%; /* Ensure full width for consistent sizing */
+  }
+  
+  .App-payment .MuiTextField-root input {
+    padding: 10px; /* Add padding inside the input for better appearance */
+  }
+  
+  .App-payment form {
+    width: 100%;
+  }
+  
+  .App-payment button {
+    background-color: #6200ea;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    width: 100%;
+  }
+  
+  .App-payment button:hover {
+    background-color: #3700b3;
+  }
+  
+  .App-payment .MuiTypography-root {
+    margin-bottom: 20px;
+  }
+  
+  .App-payment .rccs__card {
+    margin: 20px auto;
+  }
+  

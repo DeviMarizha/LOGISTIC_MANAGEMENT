@@ -1,0 +1,46 @@
+.order-summary {
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 8px;
+    max-width: 600px;
+    margin: auto;
+}
+  
+.order-summary h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+  
+.order-details p {
+    margin: 5px 0;
+}
+  
+.order-details h3 {
+    margin-top: 20px;
+}
+  
+.order-details {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.track-order {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.track-order-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.track-order-button:hover {
+    background-color: #0056b3;
+}

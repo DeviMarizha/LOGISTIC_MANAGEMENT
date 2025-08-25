@@ -1,0 +1,42 @@
+.payment-page {
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+  }
+  
+  .payment-details {
+    margin-bottom: 20px;
+  }
+  
+  .payment-details p {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
+  form {
+    margin-top: 20px;
+  }
+  
+  h3 {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    margin-left: 10px;
+    font-size: 16px;
+  }
+  
+  .error {
+    color: red;
+    margin-top: 10px;
+  }
+  
+  button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  

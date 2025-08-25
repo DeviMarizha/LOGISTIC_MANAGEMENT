@@ -1,0 +1,101 @@
+.tracking-page {
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.tracking-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.order-section {
+  flex: 1;
+  padding-right: 20px;
+}
+
+.tracking-section {
+  flex: 1;
+  padding-left: 20px;
+}
+
+.tracking-bar {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  position: relative;
+}
+
+.tracking-bar::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background-color: #ddd;
+  z-index: 0;
+}
+
+.stage {
+  position: relative;
+  text-align: center;
+  flex: 1;
+}
+
+.stage-marker {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #ddd;
+  margin: 0 auto;
+  position: relative;
+  z-index: 1;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.stage.in-progress .stage-marker {
+  background-color: #f39c12; /* Custom color for "In progress" (Shipping soon) stage */
+  box-shadow: 0 0 8px rgba(243, 156, 18, 0.6);
+}
+
+.stage.active .stage-marker {
+  background-color: #4caf50;
+}
+
+.stage.active + .stage::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 50%;
+  height: 2px;
+  background-color: #4caf50;
+  z-index: 0;
+}
+
+.stage-label {
+  display: block;
+  margin-top: 5px;
+}
+
+.tracking-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+.tracking-table th,
+.tracking-table td {
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+.order-details {
+  background-color: #f4f4f4;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: left;
+}
