@@ -99,7 +99,7 @@ http://localhost:3000
 
 ### Order Tracking Page
 
-![Order Tracking Page](assets/Order tracking.png)
+![Order Tracking Page](assets/Order Tracking.png)
 
 ### Order Page
 
@@ -111,7 +111,7 @@ http://localhost:3000
 
 ### Receiver Details Page
 
-![Receiver Details Page](assets/Receiver.png)
+![Receiver Details Page](assets/Recevier.png)
 
 ### Sender Details Page
 
