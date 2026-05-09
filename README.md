@@ -24,7 +24,7 @@ This project helps manage logistics operations such as shipment tracking, order 
 - **Backend:** Spring Boot
 - **Database:** MySQL
 - **Styling:** CSS / Bootstrap
-- **Language:** JavaScript, Java
+- **Languages:** JavaScript, Java
 - **Tools:** VS Code, npm, Maven, MySQL Workbench
 
 ---
@@ -59,8 +59,8 @@ npm start
 ### 5. Run backend
 
 ```bash
-cd backend
-mvn spring-boot:run
+cd ../backend/demo
+mvn spring-boot:run -DskipTests
 ```
 
 ### 6. Open in browser
@@ -74,15 +74,19 @@ http://localhost:3000
 ## Screenshots
 
 ### Home Page
+
 ![Home Page](assets/home.png)
 
 ### Login Page
+
 ![Login Page](assets/login.png)
 
 ### Admin Page
+
 ![Admin Page](assets/admin.png)
 
 ### About Page
+
 ![About Page](assets/about.png)
 
 ### Freight Page
@@ -118,3 +122,4 @@ http://localhost:3000
 ![Shipment Details Page](assets/shipment.png)
 
 ---
+
