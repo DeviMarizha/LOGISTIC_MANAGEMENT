@@ -95,11 +95,11 @@ http://localhost:3000
 
 ### Order Confirmation Page
 
-![Order Confirmation Page](assets/Order confirm.png)
+![Order Confirmation Page](assets/Orderconfirm.png)
 
 ### Order Tracking Page
 
-![Order Tracking Page](assets/Order Tracking.png)
+![Order Tracking Page](assets/OrderTracking.png)
 
 ### Order Page
 
