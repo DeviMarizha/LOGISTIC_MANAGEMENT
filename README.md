@@ -91,15 +91,15 @@ http://localhost:3000
 
 ### Freight Page
 
-![Freight Page](assets/freight.png)
+![Freight Page](assets/Freight.png)
 
 ### Order Confirmation Page
 
-![Order Confirmation Page](assets/order-confirm.png)
+![Order Confirmation Page](assets/Order-confirm.png)
 
 ### Order Tracking Page
 
-![Order Tracking Page](assets/order-tracking.png)
+![Order Tracking Page](assets/Order-tracking.png)
 
 ### Order Page
 
@@ -107,19 +107,19 @@ http://localhost:3000
 
 ### Payment Page
 
-![Payment Page](assets/payment.png)
+![Payment Page](assets/Payment.png)
 
 ### Receiver Details Page
 
-![Receiver Details Page](assets/receiver.png)
+![Receiver Details Page](assets/Receiver.png)
 
 ### Sender Details Page
 
-![Sender Details Page](assets/sender.png)
+![Sender Details Page](assets/Sender.png)
 
 ### Shipment Details Page
 
-![Shipment Details Page](assets/shipment.png)
+![Shipment Details Page](assets/Shipment.png)
 
 ---
 
