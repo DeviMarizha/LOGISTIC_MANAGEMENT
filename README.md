@@ -73,8 +73,6 @@ http://localhost:3000
 
 ## Screenshots
 
-## Screenshots
-
 ### Home Page
 ![Home Page](assets/home.png)
 
