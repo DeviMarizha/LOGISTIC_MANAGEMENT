@@ -73,14 +73,16 @@ http://localhost:3000
 
 ## Screenshots
 
+## Screenshots
+
 ### Home Page
 ![Home Page](assets/home.png)
 
 ### Login Page
 ![Login Page](assets/login.png)
 
-### Admin
-![Admin](assets/admin.png)
+### Admin Page
+![Admin Page](assets/admin.png)
 
-### About
-![About](assets/about.png)
+### About Page
+![About Page](assets/about.png)
