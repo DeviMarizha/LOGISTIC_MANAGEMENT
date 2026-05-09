@@ -83,4 +83,4 @@ http://localhost:3000
 ![Admin](assets/admin.png)
 
 ### About
-![Adout](assets/about.png)
+![About](assets/about.png)
