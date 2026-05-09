@@ -84,3 +84,35 @@ http://localhost:3000
 
 ### About Page
 ![About Page](assets/about.png)
+
+### Freight Page
+
+![Freight Page](assets/freight.png)
+
+### Order Confirmation Page
+
+![Order Confirmation Page](assets/order-confirm.png)
+
+### Order Tracking Page
+
+![Order Tracking Page](assets/order-tracking.png)
+
+### Order Page
+
+![Order Page](assets/order.png)
+
+### Payment Page
+
+![Payment Page](assets/payment.png)
+
+### Receiver Details Page
+
+![Receiver Details Page](assets/receiver.png)
+
+### Sender Details Page
+
+![Sender Details Page](assets/sender.png)
+
+### Shipment Details Page
+
+![Shipment Details Page](assets/shipment.png)
